@@ -1,0 +1,15 @@
+## Interface: 60200
+## Title: LearnChinese
+## Notes: Learn Chinese whilst playing
+## Author: Joris Kok
+## Version: 0.1
+## SavedVariables: UsefulWords
+## OptionalDeps: LibStub, LibTextDump-1.0
+
+Libs\LibTextDump-1.0\LibStub\LibStub\LibStub.lua
+Libs\LibTextDump-1.0\Lib.xml
+
+trad.lua
+entry.lua
+pinyin.lua
+index.lua
